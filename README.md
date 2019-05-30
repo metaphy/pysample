@@ -2,3 +2,4 @@
 
 * knn - kNN 
 * decision-tree - Decision Tree
+* bayes - Bayes
